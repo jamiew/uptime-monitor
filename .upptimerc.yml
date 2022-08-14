@@ -20,8 +20,6 @@ sites:
     url: http://occupyinter.net
   - name: fffff.at
     url: http://fffff.at
-  - name: Homelab
-    url: $HOMELAB_URL
 
 assignees:
   - jamiew
