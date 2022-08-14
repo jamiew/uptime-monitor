@@ -1,7 +1,7 @@
 url: https://voidrunners.io
-status: up
-code: 200
-responseTime: 186
-lastUpdated: 2022-08-13T23:01:29.817Z
+status: down
+code: 500
+responseTime: 2742
+lastUpdated: 2022-08-14T15:45:19.573Z
 startTime: Fri Aug 12 2022 09:28:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
