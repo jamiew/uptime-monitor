@@ -6,7 +6,7 @@ sites:
   - name: jamiedubs.com
     url: https://www.jamiedubs.com
   - name: Blackbook
-    url: https://000000book.com?secret=$SECRET_TEST
+    url: https://000000book.com
   - name: Gawds
     url: https://www.gawds.xyz
   - name: Void Runners
