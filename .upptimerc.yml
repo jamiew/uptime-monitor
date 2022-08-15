@@ -3,7 +3,7 @@ owner: jamiew
 repo: uptime-monitor
 
 sites:
-  - name: jamiedubs.com
+  - name: jamiedubs.com test $SECRET_TEST ok
     url: https://www.jamiedubs.com
   - name: Blackbook
     url: https://000000book.com
