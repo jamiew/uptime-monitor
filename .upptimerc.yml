@@ -29,19 +29,19 @@ assignees:
   - jamiew
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jamiedubs.com
   # baseUrl: /upptime
-  name: Dubnet Status Tracker
-  theme: day
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  introTitle: "Is it up?"
-  introMessage: "Uptime monitoring for some web applications I've built or contributed to. Powered by [Upptime](https://github.com/upptime/upptime)"
+  name: status.jamiedubs.com
+  theme: light
+  logoUrl: https://jamiedubs.com/images/mudkips/mudkip_is_astounded3-sm-transparent.png
+  introTitle: "Nothing to see here"
+  introMessage: "Uptime monitoring for web applications I've built or contributed to. Powered by [Upptime](https://github.com/upptime/upptime) and GitHub Actions"
   navbar:
+    - title: Home
+      href: https://jamiedubs.com
     - title: Status
       href: /
-    - title: GitHub
+    - title: Repo
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
