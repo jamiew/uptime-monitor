@@ -95,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/www.defdao.xyz",
     "slug": "def-dao",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 311,
     "timeWeek": 293,
     "timeMonth": 293,
     "timeYear": 293,
-    "dailyMinutesDown": {
-      "2022-08-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Star Wars Uncut",
