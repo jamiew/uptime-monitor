@@ -24,19 +24,19 @@
     "url": "https://000000book.com",
     "icon": "https://icons.duckduckgo.com/ip3/000000book.com.ico",
     "slug": "blackbook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 0,
-    "timeWeek": 456,
-    "timeMonth": 537,
-    "timeYear": 471,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 474,
+    "timeDay": 659,
+    "timeWeek": 485,
+    "timeMonth": 541,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2022-10-07": 1
+      "2022-10-07": 4
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://definitely.shop/",
     "icon": "https://icons.duckduckgo.com/ip3/definitely.shop.ico",
     "slug": "definitely-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 0,
-    "timeWeek": 192,
-    "timeMonth": 299,
-    "timeYear": 266,
+    "time": 281,
+    "timeDay": 1254,
+    "timeWeek": 343,
+    "timeMonth": 330,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-10-07": 1
+      "2022-10-07": 4
     }
   },
   {
@@ -182,19 +182,19 @@
     "url": "http://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 0,
-    "timeWeek": 711,
-    "timeMonth": 666,
-    "timeYear": 658,
+    "time": 653,
+    "timeDay": 264,
+    "timeWeek": 647,
+    "timeMonth": 652,
+    "timeYear": 653,
     "dailyMinutesDown": {
-      "2022-10-07": 0
+      "2022-10-07": 3
     }
   }
 ]
