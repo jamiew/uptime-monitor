@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 250,
-    "timeDay": 203,
-    "timeWeek": 280,
-    "timeMonth": 269,
+    "timeDay": 241,
+    "timeWeek": 270,
+    "timeMonth": 271,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2022-09-15": 18
@@ -24,18 +24,20 @@
     "url": "https://000000book.com",
     "icon": "https://icons.duckduckgo.com/ip3/000000book.com.ico",
     "slug": "blackbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
-    "timeDay": 332,
-    "timeWeek": 471,
-    "timeMonth": 541,
+    "timeDay": 0,
+    "timeWeek": 456,
+    "timeMonth": 537,
     "timeYear": 471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-07": 1
+    }
   },
   {
     "name": "Gawds",
@@ -48,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 215,
-    "timeWeek": 247,
-    "timeMonth": 200,
-    "timeYear": 217,
+    "time": 216,
+    "timeDay": 190,
+    "timeWeek": 207,
+    "timeMonth": 201,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 199,
-    "timeWeek": 147,
-    "timeMonth": 144,
-    "timeYear": 293,
+    "time": 290,
+    "timeDay": 42,
+    "timeWeek": 123,
+    "timeMonth": 143,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -78,18 +80,20 @@
     "url": "https://definitely.shop/",
     "icon": "https://icons.duckduckgo.com/ip3/definitely.shop.ico",
     "slug": "definitely-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 175,
-    "timeWeek": 194,
-    "timeMonth": 295,
+    "timeDay": 0,
+    "timeWeek": 192,
+    "timeMonth": 299,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-07": 1
+    }
   },
   {
     "name": "DefDAO",
@@ -102,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 171,
-    "timeWeek": 196,
-    "timeMonth": 212,
-    "timeYear": 219,
+    "time": 227,
+    "timeDay": 710,
+    "timeWeek": 271,
+    "timeMonth": 230,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -121,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 259,
-    "timeDay": 186,
-    "timeWeek": 190,
-    "timeMonth": 187,
+    "timeDay": 267,
+    "timeWeek": 200,
+    "timeMonth": 189,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2022-08-24": 88,
@@ -143,9 +147,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 139,
-    "timeDay": 146,
-    "timeWeek": 157,
-    "timeMonth": 146,
+    "timeDay": 189,
+    "timeWeek": 145,
+    "timeMonth": 149,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2022-09-15": 17
@@ -162,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 179,
-    "timeDay": 175,
-    "timeWeek": 140,
+    "time": 180,
+    "timeDay": 216,
+    "timeWeek": 150,
     "timeMonth": 142,
-    "timeYear": 179,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2022-08-24": 52,
       "2022-08-23": 41,
@@ -178,17 +182,19 @@
     "url": "http://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 658,
-    "timeDay": 838,
-    "timeWeek": 695,
-    "timeMonth": 651,
+    "timeDay": 0,
+    "timeWeek": 711,
+    "timeMonth": 666,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-07": 0
+    }
   }
 ]
