@@ -60,19 +60,19 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 197,
-    "timeWeek": 97,
-    "timeMonth": 117,
-    "timeYear": 238,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 237,
+    "timeDay": 127,
+    "timeWeek": 92,
+    "timeMonth": 115,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2022-11-08": 1
+      "2022-11-08": 11
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 206,
-    "timeWeek": 191,
-    "timeMonth": 157,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 202,
+    "timeDay": 143,
+    "timeWeek": 177,
+    "timeMonth": 155,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-11-08": 0
+      "2022-11-08": 10
     }
   },
   {
