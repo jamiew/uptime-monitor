@@ -60,10 +60,10 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
@@ -71,7 +71,9 @@
     "timeWeek": 97,
     "timeMonth": 117,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 1
+    }
   },
   {
     "name": "Definitely Shop",
@@ -96,9 +98,9 @@
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +109,9 @@
     "timeWeek": 191,
     "timeMonth": 157,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   },
   {
     "name": "Star Wars Uncut",
