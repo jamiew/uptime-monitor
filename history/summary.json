@@ -24,10 +24,10 @@
     "url": "https://000000book.com",
     "icon": "https://icons.duckduckgo.com/ip3/000000book.com.ico",
     "slug": "blackbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
@@ -35,7 +35,9 @@
     "timeWeek": 1467,
     "timeMonth": 996,
     "timeYear": 682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-14": 1
+    }
   },
   {
     "name": "Gawds",
@@ -79,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/definitely.shop.ico",
     "slug": "definitely-shop",
     "status": "down",
-    "uptime": "71.59%",
+    "uptime": "71.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.59%",
+    "uptimeYear": "71.25%",
     "time": 332,
     "timeDay": 204,
     "timeWeek": 1139,
     "timeMonth": 446,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-12-14": 12,
+      "2022-12-14": 843,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
