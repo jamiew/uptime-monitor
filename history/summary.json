@@ -24,19 +24,19 @@
     "url": "https://000000book.com",
     "icon": "https://icons.duckduckgo.com/ip3/000000book.com.ico",
     "slug": "blackbook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 360,
-    "timeWeek": 680,
-    "timeMonth": 999,
-    "timeYear": 686,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 730,
+    "timeDay": 3677,
+    "timeWeek": 1381,
+    "timeMonth": 1181,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-12-16": 8
+      "2022-12-16": 14
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 475,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2022-12-16": 601,
+      "2022-12-16": 608,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -219,19 +219,19 @@
     "url": "http://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 794,
-    "timeWeek": 2667,
-    "timeMonth": 1232,
-    "timeYear": 821,
+    "time": 919,
+    "timeDay": 7759,
+    "timeWeek": 4174,
+    "timeMonth": 1654,
+    "timeYear": 919,
     "dailyMinutesDown": {
-      "2022-12-16": 0
+      "2022-12-16": 7
     }
   }
 ]
