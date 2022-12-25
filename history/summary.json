@@ -90,7 +90,7 @@
     "timeMonth": 486,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-12-25": 266,
+      "2022-12-25": 274,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
@@ -226,19 +226,19 @@
     "url": "http://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 906,
-    "timeDay": 360,
-    "timeWeek": 785,
-    "timeMonth": 1706,
+    "timeDay": 601,
+    "timeWeek": 792,
+    "timeMonth": 1679,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2022-12-25": 0
+      "2022-12-25": 7
     }
   }
 ]
