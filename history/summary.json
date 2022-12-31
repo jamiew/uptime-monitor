@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/definitely.shop.ico",
     "slug": "definitely-shop",
     "status": "down",
-    "uptime": "62.65%",
+    "uptime": "62.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.65%",
+    "uptimeYear": "62.64%",
     "time": 320,
     "timeDay": 193,
     "timeWeek": 181,
     "timeMonth": 472,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2022-12-31": 309,
+      "2022-12-31": 359,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -150,9 +150,9 @@
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 161,
     "timeMonth": 364,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-31": 0
+    }
   },
   {
     "name": "Star Wars Uncut",
@@ -234,17 +236,15 @@
     "slug": "fffff-at",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
     "timeDay": 715,
     "timeWeek": 688,
     "timeMonth": 1607,
     "timeYear": 896,
-    "dailyMinutesDown": {
-      "2022-12-31": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
