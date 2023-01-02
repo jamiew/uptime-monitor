@@ -42,19 +42,19 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 721,
-    "timeWeek": 310,
-    "timeMonth": 463,
+    "timeDay": 227,
+    "timeWeek": 316,
+    "timeMonth": 460,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-01-02": 0
+      "2023-01-02": 9
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 467,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2023-01-02": 427,
+      "2023-01-02": 436,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
