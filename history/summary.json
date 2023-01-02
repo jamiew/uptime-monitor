@@ -42,9 +42,9 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 310,
     "timeMonth": 463,
     "timeYear": 289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-02": 0
+    }
   },
   {
     "name": "Void Runners",
@@ -79,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/definitely.shop.ico",
     "slug": "definitely-shop",
     "status": "down",
-    "uptime": "61.85%",
+    "uptime": "61.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.85%",
+    "uptimeYear": "61.72%",
     "time": 318,
     "timeDay": 153,
     "timeWeek": 143,
     "timeMonth": 467,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2023-01-02": 11,
+      "2023-01-02": 427,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
