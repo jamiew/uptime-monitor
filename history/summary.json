@@ -160,17 +160,19 @@
     "url": "http://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 663,
-    "timeWeek": 1421,
-    "timeMonth": 824,
-    "timeYear": 889,
-    "dailyMinutesDown": {}
+    "time": 887,
+    "timeDay": 619,
+    "timeWeek": 1336,
+    "timeMonth": 818,
+    "timeYear": 887,
+    "dailyMinutesDown": {
+      "2023-01-22": 0
+    }
   }
 ]
