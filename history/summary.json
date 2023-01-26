@@ -24,19 +24,19 @@
     "url": "https://000000book.com",
     "icon": "https://icons.duckduckgo.com/ip3/000000book.com.ico",
     "slug": "blackbook",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 632,
-    "timeWeek": 764,
-    "timeMonth": 544,
-    "timeYear": 684,
+    "time": 683,
+    "timeDay": 537,
+    "timeWeek": 728,
+    "timeMonth": 541,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-01-26": 0
+      "2023-01-26": 6
     }
   },
   {
