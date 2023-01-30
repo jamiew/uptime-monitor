@@ -26,9 +26,9 @@
     "slug": "blackbook",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 716,
     "timeDay": 3899,
@@ -36,7 +36,7 @@
     "timeMonth": 766,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-01-30": 48,
+      "2023-01-30": 54,
       "2023-01-29": 18
     }
   },
@@ -166,19 +166,19 @@
     "url": "http://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 4136,
-    "timeWeek": 1580,
-    "timeMonth": 1021,
-    "timeYear": 927,
+    "time": 939,
+    "timeDay": 3930,
+    "timeWeek": 1724,
+    "timeMonth": 1070,
+    "timeYear": 939,
     "dailyMinutesDown": {
-      "2023-01-30": 0
+      "2023-01-30": 7
     }
   }
 ]
