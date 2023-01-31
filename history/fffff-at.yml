@@ -1,7 +1,7 @@
 url: http://fffff.at
-status: up
-code: 200
-responseTime: 508
-lastUpdated: 2023-01-31T11:43:09.767Z
+status: down
+code: 429
+responseTime: 344
+lastUpdated: 2023-01-31T17:56:06.125Z
 startTime: Fri Aug 12 2022 09:28:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
