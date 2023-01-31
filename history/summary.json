@@ -93,7 +93,7 @@
     "time": 223,
     "timeDay": 253,
     "timeWeek": 210,
-    "timeMonth": 187,
+    "timeMonth": 184,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -166,17 +166,19 @@
     "url": "http://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 937,
-    "timeDay": 3896,
-    "timeWeek": 1836,
-    "timeMonth": 1069,
-    "timeYear": 937,
-    "dailyMinutesDown": {}
+    "time": 936,
+    "timeDay": 3250,
+    "timeWeek": 1738,
+    "timeMonth": 1074,
+    "timeYear": 936,
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   }
 ]
