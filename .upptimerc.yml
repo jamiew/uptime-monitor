@@ -21,7 +21,7 @@ sites:
     # url: https://occupyinter.net
     url: http://occupyinter.net
   - name: fffff.at
-    url: http://fffff.at
+    url: https://fffff.at
 
 assignees:
   - jamiew
