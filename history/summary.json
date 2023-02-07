@@ -166,18 +166,20 @@
     "url": "https://fffff.at",
     "icon": "https://icons.duckduckgo.com/ip3/fffff.at.ico",
     "slug": "fffff-at",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 331,
-    "timeWeek": 460,
-    "timeMonth": 955,
-    "timeYear": 897,
-    "dailyMinutesDown": {}
+    "time": 894,
+    "timeDay": 343,
+    "timeWeek": 455,
+    "timeMonth": 944,
+    "timeYear": 894,
+    "dailyMinutesDown": {
+      "2023-02-07": 0
+    }
   },
   {
     "name": "GLIF",
