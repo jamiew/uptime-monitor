@@ -20,8 +20,8 @@ sites:
   - name: Occupy Internet
     # url: https://occupyinter.net
     url: http://occupyinter.net
-  - name: fffff.at
-    url: https://fffff.at
+  # - name: fffff.at
+  #   url: https://fffff.at
   - name: GLIF
     url: https://glif.xyz
 
