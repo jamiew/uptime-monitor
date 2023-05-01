@@ -33,7 +33,7 @@
     "time": 714,
     "timeDay": 269,
     "timeWeek": 523,
-    "timeMonth": 1090,
+    "timeMonth": 1117,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2023-03-10": 20,
@@ -127,18 +127,19 @@
     "url": "https://rickrolldb.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rickrolldb.com.ico",
     "slug": "rickroll-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 77,
-    "timeWeek": 162,
-    "timeMonth": 130,
+    "timeDay": 87,
+    "timeWeek": 153,
+    "timeMonth": 129,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2023-05-01": 0,
       "2022-09-15": 17
     }
   },
