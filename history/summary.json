@@ -106,9 +106,9 @@
     "url": "https://www.starwarsuncut.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.starwarsuncut.com.ico",
     "slug": "star-wars-uncut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -118,6 +118,7 @@
     "timeMonth": 168,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2023-07-19": 0,
       "2022-08-24": 88,
       "2022-08-23": 41,
       "2022-08-15": 31
