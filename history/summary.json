@@ -171,11 +171,11 @@
     "url": "https://glif.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/glif.xyz.ico",
     "slug": "glif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
     "timeDay": 212,
@@ -183,7 +183,7 @@
     "timeMonth": 204,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-08-05": 5
+      "2023-08-05": 0
     }
   }
 ]
