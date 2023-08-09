@@ -23,7 +23,9 @@ sites:
   # - name: fffff.at
   #   url: https://fffff.at
   - name: GLIF
-    url: https://glif.xyz
+    url: https://glif.app
+  - name: GLIF Alpha
+    url: https://alpha.glif.app
 
 assignees:
   - jamiew
