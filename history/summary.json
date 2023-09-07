@@ -4,9 +4,9 @@
     "url": "https://www.jamiedubs.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jamiedubs.com.ico",
     "slug": "jamiedubs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 244,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2022-09-15": 18
     }
   },
