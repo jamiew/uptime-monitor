@@ -142,9 +142,9 @@
     "url": "http://occupyinter.net",
     "icon": "https://icons.duckduckgo.com/ip3/occupyinter.net.ico",
     "slug": "occupy-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +153,9 @@
     "timeWeek": 169,
     "timeMonth": 126,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-17": 0
+    }
   },
   {
     "name": "GLIF",
