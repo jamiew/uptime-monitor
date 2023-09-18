@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 135,
-    "timeWeek": 243,
+    "timeDay": 301,
+    "timeWeek": 260,
     "timeMonth": 248,
     "timeYear": 272,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 618,
-    "timeDay": 600,
-    "timeWeek": 564,
-    "timeMonth": 494,
+    "timeDay": 673,
+    "timeWeek": 565,
+    "timeMonth": 502,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2023-07-14": 372,
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 233,
-    "timeDay": 134,
-    "timeWeek": 148,
-    "timeMonth": 162,
-    "timeYear": 234,
+    "timeDay": 376,
+    "timeWeek": 182,
+    "timeMonth": 167,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2023-01-26": 821,
       "2023-01-25": 51
@@ -74,10 +74,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 131,
-    "timeWeek": 135,
-    "timeMonth": 147,
+    "time": 166,
+    "timeDay": 60,
+    "timeWeek": 118,
+    "timeMonth": 143,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 109,
-    "timeWeek": 117,
-    "timeMonth": 138,
+    "timeDay": 125,
+    "timeWeek": 120,
+    "timeMonth": 135,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 197,
-    "timeWeek": 216,
-    "timeMonth": 177,
+    "timeDay": 284,
+    "timeWeek": 220,
+    "timeMonth": 180,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2023-07-19": 17
@@ -131,8 +131,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 217,
-    "timeWeek": 173,
+    "timeDay": 172,
+    "timeWeek": 169,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {}
@@ -144,18 +144,16 @@
     "slug": "occupy-internet",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 114,
-    "timeWeek": 155,
-    "timeMonth": 124,
+    "timeDay": 133,
+    "timeWeek": 154,
+    "timeMonth": 126,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-09-17": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GLIF",
@@ -170,8 +168,8 @@
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 109,
-    "timeWeek": 127,
-    "timeMonth": 141,
+    "timeWeek": 128,
+    "timeMonth": 137,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -186,11 +184,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 77,
+    "time": 205,
+    "timeDay": 139,
     "timeWeek": 177,
-    "timeMonth": 200,
-    "timeYear": 207,
+    "timeMonth": 195,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   }
 ]
