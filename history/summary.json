@@ -107,9 +107,9 @@
     "slug": "star-wars-uncut",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 268,
     "timeDay": 64,
@@ -117,7 +117,6 @@
     "timeMonth": 144,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-10-20": 6,
       "2023-09-22": 18,
       "2023-09-21": 3,
       "2023-07-19": 17
