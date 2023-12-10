@@ -1,7 +1,7 @@
 url: https://rickrolldb.com/
-status: down
-code: 503
-responseTime: 2116
-lastUpdated: 2023-12-10T18:16:42.931Z
+status: up
+code: 200
+responseTime: 2066
+lastUpdated: 2023-12-10T18:25:52.035Z
 startTime: 2022-08-12T09:28:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
