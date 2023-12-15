@@ -109,7 +109,7 @@
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 252,
     "timeDay": 126,
@@ -165,35 +165,39 @@
     "url": "https://glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/glif.app.ico",
     "slug": "glif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 134,
-    "timeWeek": 132,
+    "timeDay": 142,
+    "timeWeek": 135,
     "timeMonth": 140,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   },
   {
     "name": "GLIF Alpha",
     "url": "https://alpha.glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.glif.app.ico",
     "slug": "glif-alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
+    "time": 200,
     "timeDay": 210,
-    "timeWeek": 189,
-    "timeMonth": 186,
-    "timeYear": 199,
-    "dailyMinutesDown": {}
+    "timeWeek": 192,
+    "timeMonth": 187,
+    "timeYear": 200,
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   }
 ]
