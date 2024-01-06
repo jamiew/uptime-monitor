@@ -4,19 +4,19 @@
     "url": "https://www.jamiedubs.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jamiedubs.com.ico",
     "slug": "jamiedubs-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 1429,
-    "timeWeek": 691,
-    "timeMonth": 330,
-    "timeYear": 270,
+    "time": 278,
+    "timeDay": 2134,
+    "timeWeek": 1079,
+    "timeMonth": 462,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-01-06": 1
+      "2024-01-06": 6
     }
   },
   {
@@ -133,19 +133,19 @@
     "url": "https://rickrolldb.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rickrolldb.com.ico",
     "slug": "rickroll-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 87,
-    "timeWeek": 98,
-    "timeMonth": 223,
-    "timeYear": 137,
+    "timeDay": 83,
+    "timeWeek": 96,
+    "timeMonth": 218,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 6
     }
   },
   {
