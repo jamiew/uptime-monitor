@@ -50,19 +50,19 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 230,
-    "timeDay": 170,
-    "timeWeek": 198,
-    "timeMonth": 168,
+    "time": 231,
+    "timeDay": 205,
+    "timeWeek": 207,
+    "timeMonth": 171,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-01-17": 14,
+      "2024-01-17": 21,
       "2023-01-26": 821,
       "2023-01-25": 51
     }
@@ -72,19 +72,19 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 194,
-    "timeWeek": 184,
-    "timeMonth": 166,
-    "timeYear": 152,
+    "time": 146,
+    "timeDay": 323,
+    "timeWeek": 228,
+    "timeMonth": 178,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-01-17": 14
+      "2024-01-17": 21
     }
   },
   {
@@ -94,18 +94,16 @@
     "slug": "def-dao",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 501,
     "timeWeek": 234,
     "timeMonth": 146,
     "timeYear": 161,
-    "dailyMinutesDown": {
-      "2024-01-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Star Wars Uncut",
@@ -174,9 +172,9 @@
     "slug": "glif",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 170,
@@ -184,7 +182,7 @@
     "timeMonth": 619,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-01-17": 7
+      "2024-01-17": 15
     }
   },
   {
@@ -194,9 +192,9 @@
     "slug": "glif-alpha",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 198,
     "timeDay": 190,
@@ -204,7 +202,7 @@
     "timeMonth": 191,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-01-17": 14
+      "2024-01-17": 21
     }
   }
 ]
