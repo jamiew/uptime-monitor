@@ -50,18 +50,19 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 231,
-    "timeDay": 177,
-    "timeWeek": 203,
+    "time": 230,
+    "timeDay": 170,
+    "timeWeek": 198,
     "timeMonth": 168,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-01-26": 821,
       "2023-01-25": 51
     }
@@ -71,36 +72,40 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 139,
-    "timeWeek": 175,
-    "timeMonth": 163,
+    "timeDay": 194,
+    "timeWeek": 184,
+    "timeMonth": 166,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "DefDAO",
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 128,
-    "timeWeek": 105,
-    "timeMonth": 111,
+    "time": 175,
+    "timeDay": 140,
+    "timeWeek": 111,
+    "timeMonth": 112,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Star Wars Uncut",
@@ -185,17 +190,19 @@
     "url": "https://alpha.glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.glif.app.ico",
     "slug": "glif-alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 188,
-    "timeWeek": 233,
+    "timeDay": 190,
+    "timeWeek": 228,
     "timeMonth": 191,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   }
 ]
