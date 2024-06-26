@@ -163,10 +163,10 @@
     "url": "https://glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/glif.app.ico",
     "slug": "glif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
@@ -175,6 +175,7 @@
     "timeMonth": 183,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2024-06-26": 2,
       "2024-01-17": 23
     }
   },
@@ -183,10 +184,10 @@
     "url": "https://alpha.glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/alpha.glif.app.ico",
     "slug": "glif-alpha",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 207,
@@ -195,6 +196,7 @@
     "timeMonth": 236,
     "timeYear": 207,
     "dailyMinutesDown": {
+      "2024-06-26": 1,
       "2024-01-17": 30
     }
   }
