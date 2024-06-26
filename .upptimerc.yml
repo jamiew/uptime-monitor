@@ -7,25 +7,26 @@ sites:
     url: https://www.jamiedubs.com
   - name: Blackbook
     url: https://000000book.com
-  - name: Gawds
-    url: https://www.gawds.xyz
-  - name: Void Runners
-    url: https://voidrunners.io
-  - name: DefDAO
-    url: https://www.defdao.xyz
   - name: Star Wars Uncut
     url: https://www.starwarsuncut.com
   - name: RickrollDB
     url: https://rickrolldb.com/
   - name: Occupy Internet
-    # url: https://occupyinter.net
     url: http://occupyinter.net
   # - name: fffff.at
   #   url: https://fffff.at
-  - name: GLIF
+  - name: Gawds
+    url: https://www.gawds.xyz
+  - name: Void Runners
+    url: https://voidrunners.io
+  - name: DefDAO
+    url: https://www.defdao.xyz  
+  - name: C4AA
+    url: https://c4aa.org  
+  - name: Glif
     url: https://glif.app
-  - name: GLIF Alpha
-    url: https://alpha.glif.app
+  - name: LGBTQ+ Travel Alert
+    url: https://lgbtqtravelalert.org/
 
 assignees:
   - jamiew
