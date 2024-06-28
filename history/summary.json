@@ -163,19 +163,19 @@
     "url": "https://c4aa.org",
     "icon": "https://icons.duckduckgo.com/ip3/c4aa.org.ico",
     "slug": "c4-aa",
-    "status": "down",
-    "uptime": "97.30%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "97.30%",
-    "time": 3550,
-    "timeDay": 4802,
-    "timeWeek": 3550,
-    "timeMonth": 3550,
-    "timeYear": 3550,
+    "status": "up",
+    "uptime": "96.40%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "96.40%",
+    "time": 3349,
+    "timeDay": 4325,
+    "timeWeek": 3349,
+    "timeMonth": 3349,
+    "timeYear": 3349,
     "dailyMinutesDown": {
-      "2024-06-28": 78
+      "2024-06-28": 105
     }
   },
   {
