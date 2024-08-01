@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 225,
-    "timeWeek": 251,
-    "timeMonth": 260,
-    "timeYear": 259,
+    "timeDay": 490,
+    "timeWeek": 288,
+    "timeMonth": 269,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.90%",
     "time": 477,
-    "timeDay": 364,
-    "timeWeek": 283,
-    "timeMonth": 391,
-    "timeYear": 438,
+    "timeDay": 579,
+    "timeWeek": 332,
+    "timeMonth": 398,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2024-07-14": 315,
       "2023-12-27": 27,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 247,
-    "timeDay": 220,
-    "timeWeek": 157,
-    "timeMonth": 181,
+    "timeDay": 312,
+    "timeWeek": 178,
+    "timeMonth": 185,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2023-11-15": 23,
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 108,
-    "timeWeek": 112,
-    "timeMonth": 122,
+    "timeDay": 231,
+    "timeWeek": 124,
+    "timeMonth": 126,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 89,
-    "timeWeek": 66,
-    "timeMonth": 103,
+    "timeDay": 204,
+    "timeWeek": 89,
+    "timeMonth": 106,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -111,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 221,
-    "timeWeek": 140,
-    "timeMonth": 162,
-    "timeYear": 191,
+    "timeDay": 320,
+    "timeWeek": 172,
+    "timeMonth": 170,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2024-01-17": 21
     }
@@ -131,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 280,
-    "timeWeek": 180,
+    "timeDay": 187,
+    "timeWeek": 178,
     "timeMonth": 199,
-    "timeYear": 170,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2024-01-17": 21
     }
@@ -151,10 +151,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 260,
-    "timeWeek": 168,
-    "timeMonth": 167,
-    "timeYear": 163,
+    "timeDay": 216,
+    "timeWeek": 172,
+    "timeMonth": 171,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -169,9 +169,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 93,
-    "timeWeek": 123,
-    "timeMonth": 138,
+    "timeDay": 278,
+    "timeWeek": 137,
+    "timeMonth": 143,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-01-17": 23
@@ -183,18 +183,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1118,
-    "timeDay": 1015,
-    "timeWeek": 1129,
-    "timeMonth": 1138,
-    "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2024-07-31": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1132,
+    "timeDay": 1337,
+    "timeWeek": 1207,
+    "timeMonth": 1166,
+    "timeYear": 1132,
+    "dailyMinutesDown": {}
   }
 ]
