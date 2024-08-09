@@ -182,9 +182,9 @@
     "url": "https://lgbtqtravelalert.org/",
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,6 +193,8 @@
     "timeWeek": 1114,
     "timeMonth": 1150,
     "timeYear": 1139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-09": 0
+    }
   }
 ]
