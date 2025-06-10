@@ -45,9 +45,9 @@
     "url": "https://www.starwarsuncut.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.starwarsuncut.com.ico",
     "slug": "star-wars-uncut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 269,
     "timeMonth": 216,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-10": 0
+    }
   },
   {
     "name": "RickrollDB",
@@ -172,18 +174,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "12.45%",
+    "uptime": "12.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.45%",
+    "uptimeYear": "12.42%",
     "time": 1139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2025-06-10": 18,
+      "2025-06-10": 1251,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
