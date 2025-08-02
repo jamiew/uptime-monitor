@@ -25,19 +25,19 @@
     "url": "https://000000book.com",
     "icon": "https://icons.duckduckgo.com/ip3/000000book.com.ico",
     "slug": "blackbook",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 426,
-    "timeWeek": 653,
-    "timeMonth": 477,
+    "timeDay": 545,
+    "timeWeek": 654,
+    "timeMonth": 483,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-08-02": 0
+      "2025-08-02": 11
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeMonth": 0,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2025-08-02": 1207,
+      "2025-08-02": 1218,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
