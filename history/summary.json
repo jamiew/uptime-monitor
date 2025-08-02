@@ -25,9 +25,9 @@
     "url": "https://000000book.com",
     "icon": "https://icons.duckduckgo.com/ip3/000000book.com.ico",
     "slug": "blackbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 653,
     "timeMonth": 477,
     "timeYear": 442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-02": 0
+    }
   },
   {
     "name": "Star Wars Uncut",
@@ -99,18 +101,16 @@
     "slug": "gawds",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 215,
     "timeWeek": 215,
     "timeMonth": 201,
     "timeYear": 185,
-    "dailyMinutesDown": {
-      "2025-08-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Void Runners",
@@ -119,18 +119,16 @@
     "slug": "void-runners",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 193,
     "timeWeek": 160,
     "timeMonth": 242,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2025-08-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DefDAO",
@@ -139,18 +137,16 @@
     "slug": "def-dao",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 130,
     "timeWeek": 147,
     "timeMonth": 145,
     "timeYear": 181,
-    "dailyMinutesDown": {
-      "2025-08-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Glif",
@@ -159,18 +155,16 @@
     "slug": "glif",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 246,
     "timeWeek": 313,
     "timeMonth": 272,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2025-08-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LGBTQ+ Travel Alert",
@@ -182,14 +176,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.72%",
+    "uptimeYear": "1.71%",
     "time": 1139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2025-08-02": 1184,
+      "2025-08-02": 1207,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
