@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 261,
-    "timeDay": 311,
-    "timeWeek": 306,
-    "timeMonth": 312,
+    "timeDay": 318,
+    "timeWeek": 305,
+    "timeMonth": 310,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2025-01-23": 121,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 522,
-    "timeWeek": 444,
-    "timeMonth": 479,
-    "timeYear": 443,
+    "timeDay": 273,
+    "timeWeek": 396,
+    "timeMonth": 476,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   },
   {
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 380,
-    "timeWeek": 250,
+    "timeDay": 177,
+    "timeWeek": 242,
     "timeMonth": 240,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 110,
-    "timeWeek": 159,
-    "timeMonth": 157,
+    "timeDay": 140,
+    "timeWeek": 146,
+    "timeMonth": 159,
     "timeYear": 136,
     "dailyMinutesDown": {}
   },
@@ -86,8 +86,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 183,
-    "timeWeek": 154,
+    "timeDay": 103,
+    "timeWeek": 137,
     "timeMonth": 151,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -99,18 +99,16 @@
     "slug": "gawds",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 267,
-    "timeWeek": 178,
-    "timeMonth": 199,
-    "timeYear": 185,
-    "dailyMinutesDown": {
-      "2025-08-17": 7
-    }
+    "timeDay": 160,
+    "timeWeek": 177,
+    "timeMonth": 194,
+    "timeYear": 184,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Void Runners",
@@ -119,18 +117,16 @@
     "slug": "void-runners",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 191,
-    "timeWeek": 168,
-    "timeMonth": 230,
+    "time": 218,
+    "timeDay": 197,
+    "timeWeek": 175,
+    "timeMonth": 234,
     "timeYear": 226,
-    "dailyMinutesDown": {
-      "2025-08-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DefDAO",
@@ -139,18 +135,16 @@
     "slug": "def-dao",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 177,
-    "timeWeek": 158,
-    "timeMonth": 155,
+    "timeDay": 145,
+    "timeWeek": 155,
+    "timeMonth": 154,
     "timeYear": 181,
-    "dailyMinutesDown": {
-      "2025-08-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Glif",
@@ -159,18 +153,16 @@
     "slug": "glif",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 317,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 173,
-    "dailyMinutesDown": {
-      "2025-08-17": 7
-    }
+    "timeDay": 225,
+    "timeWeek": 266,
+    "timeMonth": 274,
+    "timeYear": 174,
+    "dailyMinutesDown": {}
   },
   {
     "name": "LGBTQ+ Travel Alert",
@@ -178,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "10.40%",
+    "uptime": "10.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -189,7 +181,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 1079,
+      "2025-08-18": 20,
+      "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -552,8 +545,7 @@
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
-      "2024-08-19": 1440,
-      "2024-08-18": 1440
+      "2024-08-19": 1440
     }
   }
 ]
