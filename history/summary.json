@@ -97,72 +97,80 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 76,
-    "timeWeek": 164,
+    "timeWeek": 174,
     "timeMonth": 185,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Void Runners",
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 224,
-    "timeWeek": 192,
+    "timeWeek": 204,
     "timeMonth": 179,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "DefDAO",
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 71,
-    "timeWeek": 147,
+    "timeWeek": 148,
     "timeMonth": 151,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Glif",
     "url": "https://glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/glif.app.ico",
     "slug": "glif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
     "timeDay": 167,
-    "timeWeek": 248,
+    "timeWeek": 247,
     "timeMonth": 270,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "LGBTQ+ Travel Alert",
@@ -170,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "10.34%",
+    "uptime": "10.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -181,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-20": 17,
+      "2025-08-20": 1193,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
