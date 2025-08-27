@@ -99,18 +99,16 @@
     "slug": "gawds",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 198,
     "timeWeek": 169,
     "timeMonth": 177,
     "timeYear": 184,
-    "dailyMinutesDown": {
-      "2025-08-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Void Runners",
@@ -119,18 +117,16 @@
     "slug": "void-runners",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 228,
     "timeWeek": 240,
     "timeMonth": 198,
     "timeYear": 227,
-    "dailyMinutesDown": {
-      "2025-08-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DefDAO",
@@ -139,18 +135,16 @@
     "slug": "def-dao",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 184,
     "timeWeek": 151,
     "timeMonth": 149,
     "timeYear": 180,
-    "dailyMinutesDown": {
-      "2025-08-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Glif",
@@ -159,18 +153,16 @@
     "slug": "glif",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 307,
     "timeWeek": 270,
     "timeMonth": 273,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2025-08-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LGBTQ+ Travel Alert",
@@ -189,7 +181,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 1421,
+      "2025-08-27": 17,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -552,8 +545,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
