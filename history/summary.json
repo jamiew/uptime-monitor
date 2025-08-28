@@ -97,19 +97,19 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 174,
-    "timeWeek": 163,
-    "timeMonth": 175,
+    "timeDay": 160,
+    "timeWeek": 159,
+    "timeMonth": 173,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-08-28": 2
+      "2025-08-28": 13
     }
   },
   {
@@ -117,19 +117,19 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 211,
-    "timeWeek": 223,
-    "timeMonth": 200,
+    "timeDay": 224,
+    "timeWeek": 226,
+    "timeMonth": 202,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-08-28": 1
+      "2025-08-28": 13
     }
   },
   {
@@ -137,19 +137,19 @@
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 167,
-    "timeWeek": 150,
+    "timeDay": 163,
+    "timeWeek": 149,
     "timeMonth": 150,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-08-28": 1
+      "2025-08-28": 12
     }
   },
   {
@@ -157,19 +157,19 @@
     "url": "https://glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/glif.app.ico",
     "slug": "glif",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 268,
-    "timeWeek": 266,
+    "timeDay": 265,
+    "timeWeek": 265,
     "timeMonth": 269,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 12
     }
   },
   {
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 984,
+      "2025-08-28": 995,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
