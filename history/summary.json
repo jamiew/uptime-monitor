@@ -97,19 +97,19 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 167,
+    "time": 183,
+    "timeDay": 195,
     "timeWeek": 168,
     "timeMonth": 176,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-08-28": 12
+      "2025-08-28": 2
     }
   },
   {
@@ -117,19 +117,19 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 185,
+    "time": 214,
+    "timeDay": 196,
     "timeWeek": 220,
     "timeMonth": 199,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-08-28": 12
+      "2025-08-28": 1
     }
   },
   {
@@ -137,19 +137,19 @@
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 155,
+    "timeDay": 177,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-08-28": 11
+      "2025-08-28": 1
     }
   },
   {
@@ -157,19 +157,19 @@
     "url": "https://glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/glif.app.ico",
     "slug": "glif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 254,
+    "timeDay": 265,
     "timeWeek": 268,
     "timeMonth": 270,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-08-28": 11
+      "2025-08-28": 0
     }
   },
   {
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 370,
+      "2025-08-28": 412,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
