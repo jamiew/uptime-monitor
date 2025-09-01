@@ -99,17 +99,17 @@
     "slug": "gawds",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 189,
+    "timeDay": 168,
     "timeWeek": 156,
     "timeMonth": 164,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-08-31": 22,
+      "2025-08-31": 11,
       "2025-08-30": 5,
       "2025-08-29": 19
     }
@@ -121,17 +121,17 @@
     "slug": "void-runners",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 251,
+    "timeDay": 258,
     "timeWeek": 227,
     "timeMonth": 212,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-08-31": 21,
+      "2025-08-31": 11,
       "2025-08-30": 4,
       "2025-08-29": 19
     }
@@ -143,17 +143,16 @@
     "slug": "def-dao",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 146,
+    "timeDay": 136,
     "timeWeek": 151,
     "timeMonth": 149,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-08-31": 10,
       "2025-08-29": 18
     }
   },
@@ -164,17 +163,16 @@
     "slug": "glif",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 315,
+    "timeDay": 310,
     "timeWeek": 278,
     "timeMonth": 265,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-08-31": 9,
       "2025-08-29": 18
     }
   },
@@ -195,7 +193,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 1393,
+      "2025-09-01": 21,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -558,8 +557,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   }
 ]
