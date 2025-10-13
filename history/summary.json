@@ -97,18 +97,19 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 182,
+    "time": 181,
     "timeDay": 284,
     "timeWeek": 186,
     "timeMonth": 177,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-08-31": 11,
       "2025-08-30": 5,
       "2025-08-29": 19
@@ -119,9 +120,9 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -131,6 +132,7 @@
     "timeMonth": 206,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-08-31": 11,
       "2025-08-30": 4,
       "2025-08-29": 19
@@ -141,9 +143,9 @@
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,6 +155,7 @@
     "timeMonth": 158,
     "timeYear": 167,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-08-29": 18
     }
   },
@@ -161,9 +164,9 @@
     "url": "https://glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/glif.app.ico",
     "slug": "glif",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,6 +176,7 @@
     "timeMonth": 291,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2025-10-13": 0,
       "2025-08-29": 18
     }
   },
@@ -182,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "9.16%",
+    "uptime": "9.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -193,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-13": 18,
+      "2025-10-13": 1081,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
