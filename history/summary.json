@@ -4,10 +4,10 @@
     "url": "https://www.jamiedubs.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jamiedubs.com.ico",
     "slug": "jamiedubs-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 269,
@@ -16,6 +16,7 @@
     "timeMonth": 328,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2025-10-18": 1,
       "2025-01-23": 121,
       "2025-01-22": 560
     }
@@ -61,9 +62,9 @@
     "url": "https://rickrolldb.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rickrolldb.com.ico",
     "slug": "rickroll-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +73,9 @@
     "timeWeek": 169,
     "timeMonth": 163,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-18": 0
+    }
   },
   {
     "name": "Occupy Internet",
@@ -183,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "9.07%",
+    "uptime": "9.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -194,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 16,
+      "2025-10-18": 1116,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
