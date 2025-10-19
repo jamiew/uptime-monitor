@@ -6,17 +6,16 @@
     "slug": "jamiedubs-com",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 269,
-    "timeDay": 264,
-    "timeWeek": 372,
-    "timeMonth": 324,
+    "timeDay": 224,
+    "timeWeek": 334,
+    "timeMonth": 321,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-10-18": 9,
       "2025-01-23": 121,
       "2025-01-22": 560
     }
@@ -32,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 306,
-    "timeWeek": 514,
-    "timeMonth": 480,
+    "time": 440,
+    "timeDay": 408,
+    "timeWeek": 485,
+    "timeMonth": 475,
     "timeYear": 456,
     "dailyMinutesDown": {}
   },
@@ -51,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 230,
-    "timeWeek": 229,
-    "timeMonth": 231,
+    "timeDay": 212,
+    "timeWeek": 219,
+    "timeMonth": 225,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -64,18 +63,16 @@
     "slug": "rickroll-db",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 148,
-    "timeWeek": 164,
-    "timeMonth": 162,
+    "timeDay": 149,
+    "timeWeek": 161,
+    "timeMonth": 164,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2025-10-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Occupy Internet",
@@ -89,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 145,
-    "timeWeek": 154,
-    "timeMonth": 146,
+    "timeDay": 149,
+    "timeWeek": 145,
+    "timeMonth": 144,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -107,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 159,
-    "timeWeek": 229,
-    "timeMonth": 195,
+    "timeDay": 168,
+    "timeWeek": 224,
+    "timeMonth": 193,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-08-31": 11,
@@ -129,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 183,
-    "timeWeek": 222,
-    "timeMonth": 211,
+    "timeDay": 176,
+    "timeWeek": 224,
+    "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-08-31": 11,
@@ -150,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 271,
-    "timeWeek": 239,
-    "timeMonth": 179,
-    "timeYear": 167,
+    "time": 172,
+    "timeDay": 197,
+    "timeWeek": 255,
+    "timeMonth": 180,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2025-08-29": 18
     }
@@ -171,10 +168,10 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.96%",
     "time": 190,
-    "timeDay": 285,
-    "timeWeek": 310,
-    "timeMonth": 293,
-    "timeYear": 204,
+    "timeDay": 204,
+    "timeWeek": 286,
+    "timeMonth": 290,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2025-10-15": 180,
       "2025-08-29": 18
@@ -197,7 +194,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 1124,
+      "2025-10-19": 19,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -560,8 +558,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   }
 ]
