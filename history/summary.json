@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 270,
-    "timeDay": 174,
-    "timeWeek": 278,
-    "timeMonth": 312,
+    "timeDay": 222,
+    "timeWeek": 270,
+    "timeMonth": 310,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2025-01-23": 121,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 440,
-    "timeDay": 631,
-    "timeWeek": 449,
+    "timeDay": 436,
+    "timeWeek": 435,
     "timeMonth": 464,
-    "timeYear": 458,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -50,10 +50,10 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 236,
-    "timeDay": 254,
-    "timeWeek": 190,
-    "timeMonth": 208,
-    "timeYear": 253,
+    "timeDay": 171,
+    "timeWeek": 182,
+    "timeMonth": 209,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2025-10-20": 163
     }
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 59,
-    "timeWeek": 153,
-    "timeMonth": 163,
-    "timeYear": 143,
+    "timeDay": 93,
+    "timeWeek": 142,
+    "timeMonth": 160,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 183,
-    "timeWeek": 139,
-    "timeMonth": 135,
+    "timeDay": 58,
+    "timeWeek": 122,
+    "timeMonth": 134,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -100,16 +100,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 182,
-    "timeDay": 215,
-    "timeWeek": 189,
-    "timeMonth": 196,
-    "timeYear": 186,
+    "time": 181,
+    "timeDay": 81,
+    "timeWeek": 174,
+    "timeMonth": 194,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2025-08-31": 11,
       "2025-08-30": 5,
@@ -128,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 154,
-    "timeWeek": 462,
-    "timeMonth": 276,
+    "timeDay": 161,
+    "timeWeek": 458,
+    "timeMonth": 277,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-08-31": 11,
@@ -150,9 +150,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 152,
-    "timeWeek": 413,
-    "timeMonth": 259,
+    "timeDay": 107,
+    "timeWeek": 409,
+    "timeMonth": 257,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2025-10-20": 33,
@@ -171,10 +171,10 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.96%",
     "time": 192,
-    "timeDay": 422,
-    "timeWeek": 286,
-    "timeMonth": 295,
-    "timeYear": 207,
+    "timeDay": 164,
+    "timeWeek": 264,
+    "timeMonth": 288,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-10-15": 180,
       "2025-08-29": 18
@@ -186,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "8.92%",
+    "uptime": "8.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -197,7 +197,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 18,
+      "2025-10-27": 19,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -560,8 +561,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   }
 ]
