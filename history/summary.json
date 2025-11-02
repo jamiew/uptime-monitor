@@ -43,18 +43,19 @@
     "url": "https://www.starwarsuncut.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.starwarsuncut.com.ico",
     "slug": "star-wars-uncut",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 236,
-    "timeDay": 168,
-    "timeWeek": 220,
-    "timeMonth": 209,
+    "timeDay": 202,
+    "timeWeek": 222,
+    "timeMonth": 210,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2025-11-02": 0,
       "2025-10-20": 163
     }
   },
@@ -197,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 19,
+      "2025-11-02": 113,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
