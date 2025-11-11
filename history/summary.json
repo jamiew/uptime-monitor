@@ -82,18 +82,20 @@
     "url": "http://occupyinter.net",
     "icon": "https://icons.duckduckgo.com/ip3/occupyinter.net.ico",
     "slug": "occupy-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 149,
-    "timeWeek": 167,
-    "timeMonth": 142,
+    "time": 127,
+    "timeDay": 169,
+    "timeWeek": 170,
+    "timeMonth": 144,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-11": 1
+    }
   },
   {
     "name": "Gawds",
@@ -187,7 +189,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "8.63%",
+    "uptime": "8.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -198,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 18,
+      "2025-11-11": 928,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
