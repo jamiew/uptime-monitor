@@ -82,19 +82,19 @@
     "url": "http://occupyinter.net",
     "icon": "https://icons.duckduckgo.com/ip3/occupyinter.net.ico",
     "slug": "occupy-internet",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 169,
-    "timeWeek": 170,
-    "timeMonth": 144,
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
+    "time": 126,
+    "timeDay": 146,
+    "timeWeek": 162,
+    "timeMonth": 142,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-11-11": 1
+      "2025-11-11": 80
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 928,
+      "2025-11-11": 1008,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
