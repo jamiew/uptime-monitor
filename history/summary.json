@@ -102,9 +102,9 @@
     "url": "https://www.gawds.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.gawds.xyz.ico",
     "slug": "gawds",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -114,6 +114,7 @@
     "timeMonth": 238,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-08-31": 11,
       "2025-08-30": 5,
       "2025-08-29": 19
@@ -124,9 +125,9 @@
     "url": "https://voidrunners.io",
     "icon": "https://icons.duckduckgo.com/ip3/voidrunners.io.ico",
     "slug": "void-runners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +137,7 @@
     "timeMonth": 286,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-08-31": 11,
       "2025-08-30": 4,
       "2025-08-29": 19
@@ -146,9 +148,9 @@
     "url": "https://www.defdao.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.defdao.xyz.ico",
     "slug": "def-dao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -158,6 +160,7 @@
     "timeMonth": 248,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-10-20": 33,
       "2025-08-29": 18
     }
@@ -167,9 +170,9 @@
     "url": "https://glif.app",
     "icon": "https://icons.duckduckgo.com/ip3/glif.app.ico",
     "slug": "glif",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -179,6 +182,7 @@
     "timeMonth": 316,
     "timeYear": 218,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-10-15": 180,
       "2025-08-29": 18
     }
@@ -200,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 18,
+      "2025-11-17": 37,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
