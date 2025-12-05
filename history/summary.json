@@ -65,18 +65,20 @@
     "url": "https://rickrolldb.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rickrolldb.com.ico",
     "slug": "rickroll-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 278,
-    "timeWeek": 153,
+    "timeDay": 214,
+    "timeWeek": 152,
     "timeMonth": 156,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "Occupy Internet",
@@ -194,7 +196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lgbtqtravelalert.org.ico",
     "slug": "lgbtq-travel-alert",
     "status": "down",
-    "uptime": "8.24%",
+    "uptime": "8.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -205,7 +207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 19,
+      "2025-12-05": 1030,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
